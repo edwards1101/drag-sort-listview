@@ -2,7 +2,7 @@ DragSortListView
 ================
 
 # NOTICE: No longer maintained.
-
+拖动排序的ListView，同时支持ListView滑动item删除，各个Item高度不一、单选、复选、CursorAdapter做为适配器、拖动背景变化等
 I do not have much time to devote to this project so I am
 dropping support for the time being. Sorry everybody!
 
